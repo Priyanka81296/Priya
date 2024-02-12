@@ -1,15 +1,17 @@
 Youtube-Data-Harvesting-and-Warehousing
+
 This project uses the YouTube API to extract data from YouTube channels and videos.
 Overview
+
 This project aims to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels
 
 Technology Stack Used
-
 Python
 Google Client Library
 MySQL
 MongoDB
 Streamlit
+
 Steps involved
 
 Establish a connection to the YouTube API V3, which allows me to retrieve channel and video data by utilizing the Google API client library for Python
